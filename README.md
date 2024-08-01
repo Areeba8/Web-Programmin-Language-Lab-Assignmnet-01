@@ -8,6 +8,8 @@ This repository contains the lab task for the Web Programming Language course. T
 - **Lists**: The web page makes extensive use of lists (both numbered and bulleted) for displaying information.
 - **Bootstrap**: Bootstrap has been used to enhance the features and aesthetics of the web page.
 - **Image Links**: Clicking on an image will redirect the user to the login page of the corresponding social networking platform.
+![image](https://github.com/user-attachments/assets/e03f792c-5c7b-49fc-9075-70f02ddda690)
+
 
 ## Getting Started
 
